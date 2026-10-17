@@ -16,5 +16,5 @@ templates for Linux systems using `curl`.
 
 ## Installation
 
-```bash (aka put this into your terminal)
+```bash
 curl -fsSL https://raw.githubusercontent.com/NewMasterDai/LOTS/main/lots.sh | bash   
