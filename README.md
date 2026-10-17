@@ -22,17 +22,6 @@ included in LOTS, open an [issue](https://github.com/NewMasterDai/LOTS/issues)
 or submit a pull request. The goal is to build a complete feature set
 of opinionated default Templates that cover the most common post-install needs.
 
-## For Distro Developers
-
-If you maintain a Linux distribution and want to ship sensible,
-opinionated Templates defaults out of the box, LOTS is designed to be embedded
-or referenced as a post-install step. It's lightweight and idempotent,
-which makes implementation trivial.
-
-Consider adding a pointer to LOTS in your documentation or as an
-optional post-install suggestion. If you'd like a distro-specific
-template set, you can reach out as I'm happy to collaborate.
-
 ## Support
 
 If you find LOTS useful, consider giving it a ⭐ on
