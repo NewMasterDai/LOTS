@@ -1,7 +1,6 @@
 # LOTS — Linux Opinionated Templates Script
 
-A lightweight shell script that fetches and applies opinionated configuration
-templates for Linux systems using `curl`.
+A lightweight shell script that fetches and applies an opinionated Templates configuration for Linux systems using `curl`.
 
 ## Templates
 
