@@ -1,6 +1,3 @@
-# LOTS
-Linux Opinionated Templates script
-
 # LOTS — Linux Opinionated Templates Script
 
 A lightweight shell script that fetches and applies opinionated configuration
