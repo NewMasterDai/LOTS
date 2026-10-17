@@ -2,6 +2,8 @@
 
 A lightweight shell script that fetches and applies an opinionated Templates configuration for Linux systems using `curl`.
 
+!CURRENTLY WIP, USE AT YOUR OWN DISCRETION!
+
 ## Templates
 
 - a .pptx file
